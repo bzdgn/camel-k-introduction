@@ -1,6 +1,6 @@
 import org.apache.camel.builder.RouteBuilder;
 
-public class Routing extends RouteBuilder {
+public class BasicRouting extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
