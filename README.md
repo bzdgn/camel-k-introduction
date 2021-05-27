@@ -68,7 +68,7 @@ After you start the dashboard, a browser page should automatically pop up and yo
 -------------------
 You need to download the Apache Camel K client from the followiing source;
 
-(source-for-apache-camel-client](https://github.com/apache/camel-k/releases)
+[source-for-apache-camel-client](https://github.com/apache/camel-k/releases)
 
 Unzip it, copy it to a folder, and either add this folder to your path, or copy it to /usr/bin or any equivalent based on your system. This optional configuraiton is just only to call it anywhere from terminal or command line. For windows, you can add an environmental variable which has the binary, and add this environmental variable to the PATH.
 
