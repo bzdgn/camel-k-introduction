@@ -275,7 +275,7 @@ Pros;
 Cons;
 -----
 - Not enough resources for the complex examples
-- Still need to get mature for complexer scenarios
+- Still needs to get mature for complexer scenarios
 - Less control over the code
 - Unit testing
 
