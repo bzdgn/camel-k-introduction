@@ -1,0 +1,9 @@
+<routes xmlns="http://camel.apache.org/schema/spring">
+    <route>
+        <from uri="timer:tick"/>
+        <setBody>
+            <constant>Hello Camel K!</constant>
+         </setBody>
+        <to uri="log:info"/>
+    </route>
+</routes>
