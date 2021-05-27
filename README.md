@@ -289,6 +289,7 @@ Cons;
 [MiniKube Documentation](https://minikube.sigs.k8s.io/docs/start/) <br/>
 [Kubernetes Camel K Operator](https://operatorhub.io/operator/camel-k) <br/>
 [Camel K Examples](https://github.com/apache/camel-k-examples/) <br/>
+[Camel K Examples in Main Project](https://github.com/apache/camel-k/tree/main/examples) <br/>
 
 
 [Go back to TOC](#toc)
