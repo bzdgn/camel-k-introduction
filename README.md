@@ -287,7 +287,8 @@ Cons;
 [Claus Ibsen Camel K Intro](https://youtu.be/d1Hr78a7Lww?t=630) <br/>
 [Camel K in a Nutshell](https://www.youtube.com/watch?v=LaBvBonUC6g) <br/>
 [MiniKube Documentation](https://minikube.sigs.k8s.io/docs/start/) <br/>
-[Kubernetes Camel K Operator](https://operatorhub.io/operator/camel-k) <br />
+[Kubernetes Camel K Operator](https://operatorhub.io/operator/camel-k) <br/>
+[Camel K Examples](https://github.com/apache/camel-k-examples/) <br/>
 
 
 [Go back to TOC](#toc)
