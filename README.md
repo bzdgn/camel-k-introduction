@@ -110,6 +110,8 @@ You can easily delete this route, by applying the following command;
 
 ```kamel delete basic-routing```
 
+**Important Note**: All the integration java files must have the same naming with the class name!
+
 
 [Go back to TOC](#toc)
 
